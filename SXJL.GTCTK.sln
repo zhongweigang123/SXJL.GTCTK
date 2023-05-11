@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SXJL.GTCTK.UI", "SXJL.GTCTK.UI\SXJL.GTCTK.UI.csproj", "{E3ACC95A-6D7D-4231-85AC-1FF641DB2993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SXJL.GTCTK.Core", "SXJL.GTCTK.Core\SXJL.GTCTK.Core.csproj", "{B40B4456-7AA1-4C37-A4BF-1E082D230472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3ACC95A-6D7D-4231-85AC-1FF641DB2993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3ACC95A-6D7D-4231-85AC-1FF641DB2993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3ACC95A-6D7D-4231-85AC-1FF641DB2993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3ACC95A-6D7D-4231-85AC-1FF641DB2993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40B4456-7AA1-4C37-A4BF-1E082D230472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40B4456-7AA1-4C37-A4BF-1E082D230472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40B4456-7AA1-4C37-A4BF-1E082D230472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40B4456-7AA1-4C37-A4BF-1E082D230472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1206BA19-A7A2-4922-AA11-B1ADB8B1BDFB}
+	EndGlobalSection
+EndGlobal
